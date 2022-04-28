@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CoverWithBox
+  - FxTemporaire
+  - GameControl
+  - Ground
+  - Player1
+  - Player1Tower
+  - Player2Tower
+  - Player1CreatePoint
+  - Player2CreatePoint
+  - Player1Name
+  - Player2Name
+  - WaitOtherPlayer
+  - PowerBar
+  - Player1HealthBar
+  - Player2HealthBar
+  - CoverBoxHealthBar
+  - HealthBarCanvas
+  - Gift
+  - ServerInfoText
+  - SaveNickButton
+  - CreateRoomButton
+  - JoinRoomButton
+  - GameOverPanel
+  - GameOverWin
+  - ServerManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
